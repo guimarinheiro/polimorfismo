@@ -1,0 +1,6 @@
+sistema_de_pagamentos\PagamentoPix.class
+sistema_de_pagamentos\Pagamento.class
+sistema_de_pagamentos\Main.class
+sistema_de_pagamentos\PagamentoBoleto.class
+sistema_de_pagamentos\PagamentoCartaoCredito.class
+sistema_de_pagamentos\CaixaFinanceiro.class
